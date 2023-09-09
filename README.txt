@@ -1,0 +1,1 @@
+C/C++ practice record using AOJ:AIZU ONLINE JUDGE
